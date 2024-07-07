@@ -22,3 +22,6 @@ describe("multiply exercise", function () {
     assert.equal(multiply(23, 45), 23 * 45);
   });
 });
+
+
+// pair partner - Moses Olara
