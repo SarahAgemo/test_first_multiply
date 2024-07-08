@@ -13,7 +13,7 @@ TDD exercises as part of the Refactory Apprenticeship Program
 - Navigate to cloned exercise directory.  
   `cd TDD-TestFirst-multiply-exercise`  
 - Install dependencies.  
-  `npm install`  
+  `npm install mocha chai --save-dev`  
 - Run test(s).  
   `npm test`  
 
