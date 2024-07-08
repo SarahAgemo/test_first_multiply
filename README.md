@@ -6,9 +6,8 @@ TDD exercises as part of the Refactory Apprenticeship Program
 ## Clone The Repository
 - Clone the repo from github  
   Using HTTP  
-  `git clone https://github.com/WodPachua/TDD-TestFirst-multiply-exercise.git`  
-  Using SSH  
-  `git clone git@github.com:WodPachua/TDD-TestFirst-multiply-exercise.git`  
+  `git clone https://github.com/SarahAgemo/test_first_multiply.git`  
+  
   
 ## Run Tests
 - Navigate to cloned exercise directory.  
